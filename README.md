@@ -27,3 +27,7 @@ TargetImage.png
 - output images:
 BlendImage1.png,
 BlendImage2.png
+
+## PYTHON code
+
+run the file "gradient_blending.py"
